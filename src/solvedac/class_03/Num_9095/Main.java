@@ -25,7 +25,7 @@ public class Main {
             sb.append(intArr[n]).append(" ");
         }
 
-        System.out.println(Arrays.toString(intArr));
+        System.out.println(sb);
     }
 }
 

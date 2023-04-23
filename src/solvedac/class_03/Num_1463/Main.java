@@ -42,7 +42,6 @@ public class Main {
         System.out.println(cnt[N]);
     }
 }
-
 /*
 [연산, N, cnt]
 n0 [0]
